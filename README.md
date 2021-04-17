@@ -64,3 +64,9 @@ git push --set-upstream origin ИМЯ-ВЕТКИ
 ```shell
 git merge ИМЯ
 ```
+
+#### Забирает все обновления с удаленного репозитория
+```shell
+git pull
+```
+
